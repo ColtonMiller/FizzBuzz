@@ -32,8 +32,7 @@ namespace FizzBuzz
             }
             else
             {
-                string numString = number.ToString();
-                return numString;
+                return number.ToString();
             }
 
 
